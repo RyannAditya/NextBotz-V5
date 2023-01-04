@@ -85,7 +85,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ © ᴘᴜᴛʀᴀᴍᴏᴅz || ALL RESERVED
+ ❖ © ᴀᴛsᴜᴋᴏ ʙᴏᴛᴢ || ʀʏᴀɴ ᴀᴅɪᴛʏᴀ ᴘʀᴛᴍ
 
  ╭━━━━「 *DATA* 」
  ┊⫹ *Sucsess ☑️* 】Status
