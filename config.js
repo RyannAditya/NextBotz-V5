@@ -30,7 +30,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/chxrnvkhalxst'
 global.syt = 'https://youtube.com/'
 global.sgh = 'https://github.com/YannPrtm'
-global.sgc = 'https://chat.whatsapp.com/I47cTfEwzIC391KPBjbTPq'
+global.sgc = 'https://chat.whatsapp.com/FImWosVvijLHXApzv7oSG4'
 global.sdc = 'https://wa.me/62822522851432'
 global.swa = 'wa.me/6822522851432'
 global.swb = 'https://discord.gg/'
@@ -122,13 +122,13 @@ global.ultahowner = 'Februari 02 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6fc98b67397beb0b1374d.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
-global.giflogo = 'https://ibb.co/3sJ0ybv'
-global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
-global.giflogo = 'https://telegra.ph/file/99dc832b69682552788b3.mp4'
-global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.thumb = 'https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg'
+global.giflogo = 'https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg'
+global.thumbbc = 'https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg'
+global.giflogo2 = 'https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg'
+global.thumbs = ['https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
