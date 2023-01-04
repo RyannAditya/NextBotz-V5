@@ -56,13 +56,13 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━〔 ıll CONTOH llı 〕━㉿
 ⬡ #daftar namamu.umurmu
-⬡ #daftar PutraModz.18
+⬡ #daftar Ryan.24
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `*ᴘᴜᴛʀᴀᴍᴏᴅz*`, 
+   footer: `*ᴀᴛsᴜᴋᴏ ʙᴏᴛ*`, 
    title: "", 
-   buttonText: "CLICK HERE", 
+   buttonText: "ᴄʟɪᴄᴋ ʜᴇʀᴇ", 
    sections 
  } 
 
@@ -117,13 +117,13 @@ Nomor Anda Akan Di Banned/Block!.
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
-'thumbnail':await(await fetch('https://telegra.ph/file/beec58efa5d3821dea224.jpg')).buffer(),
+'thumbnail':await(await fetch('https://telegra.ph/file/9886b1328b0d3b5579d3b.jpg')).buffer(),
 'sourceUrl':'https://youtu.be/QOm1gEFbMdI'}},
 'caption':cap,
 'footer':botdate,
 'buttons':[
-{'buttonId':'.menu','buttonText':{'displayText':'▣ Mҽɳυ ▣'},'type':1},
-{'buttonId':'.salken','buttonText':{'displayText':'🎈Hαʅʅσ'},'type':1}
+{'buttonId':'.menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
+{'buttonId':'.salken','buttonText':{'displayText':'ʜᴀʟᴏ ᴋᴀᴋ'},'type':1}
 ],
 'headerType':6}
     await conn.sendMessage(m.chat,buttonMessage, { quoted:m})
